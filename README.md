@@ -53,10 +53,10 @@ go run scraper.go
 This will start the web scraping process and send the collected data via email according to your configuration.
 
 Excel Sheet Generated:
-<img src="/Users/divyanshjha/Developer/Web Scraping Go/images/excel.png">
+<img src="/Users/divyanshjha/Developer/web-scraping-go/images/excel.png">
 
 Mail Sent:
-<img src="/Users/divyanshjha/Developer/Web Scraping Go/images/mail.png>
+<img src="/Users/divyanshjha/Developer/web-scraping-go/images/mail.png">
 
 
 ## License
