@@ -1,0 +1,26 @@
+Symbol,Name,Price (Intraday),Change,% Change,Volume,Avg Vol (3 month),Market Cap,PE Ratio (TTM)
+SIRI,Sirius XM Holdings Inc.,2.8250,+0.0850,+3.10%,101.093M,20.045M,10.867B,8.56
+INTC,Intel Corporation,30.88,+0.69,+2.29%,95.798M,50.705M,131.452B,31.84
+PFE,Pfizer Inc.,28.66,+0.46,+1.63%,78.29M,42.117M,162.404B,N/A
+AAPL,Apple Inc.,192.32,+1.04,+0.54%,75.158M,62.564M,2.949T,29.96
+T,AT&T Inc.,18.22,+0.60,+3.41%,67.619M,35.355M,130.64B,9.80
+TSLA,"Tesla, Inc.",178.10,-0.69,-0.39%,67.315M,94.657M,567.997B,45.43
+DELL,Dell Technologies Inc.,139.56,-30.36,-17.87%,67.193M,10.175M,99.151B,28.48
+GRAB,Grab Holdings Limited,3.6700,+0.0200,+0.55%,64.82M,26.442M,14.508B,N/A
+AMD,"Advanced Micro Devices, Inc.",167.01,+0.26,+0.16%,64.332M,60.093M,269.948B,245.61
+NIO,NIO Inc.,5.39,-0.01,-0.19%,63.177M,56.91M,11.25B,N/A
+NVDA,NVIDIA Corporation,"1,095.95",-9.05,-0.82%,61.326M,49.792M,2.696T,64.09
+AAL,American Airlines Group Inc.,11.50,+0.06,+0.52%,60.868M,33.153M,7.545B,16.20
+WBD,"Warner Bros. Discovery, Inc.",8.24,+0.16,+2.04%,60.338M,30.876M,20.203B,N/A
+CRH,CRH plc,81.76,+1.80,+2.25%,60.095M,4.361M,56.022B,18.01
+AMZN,"Amazon.com, Inc.",176.45,-2.88,-1.60%,58.904M,39.353M,1.836T,49.56
+BAC,Bank of America Corporation,39.99,+1.36,+3.52%,58.188M,38.31M,312.737B,13.79
+F,Ford Motor Company,12.13,+0.36,+3.06%,57.206M,49.336M,48.2B,12.51
+GPS,"The Gap, Inc.",28.96,+6.44,+28.60%,53.671M,9.585M,10.862B,16.09
+MSFT,Microsoft Corporation,415.61,+0.93,+0.23%,47.995M,20.049M,3.089T,36.01
+PLTR,Palantir Technologies Inc.,21.68,-0.05,-0.23%,44.416M,48.891M,48.279B,180.67
+SLB,Schlumberger Limited,45.89,+0.30,+0.66%,41.724M,9.673M,65.592B,15.30
+RIVN,"Rivian Automotive, Inc.",10.93,-0.05,-0.41%,39.956M,42.572M,10.874B,N/A
+MARA,"Marathon Digital Holdings, Inc.",19.52,-0.52,-2.59%,39.495M,51.298M,5.52B,12.20
+CSCO,"Cisco Systems, Inc.",46.50,+0.38,+0.82%,39.269M,19.456M,187.34B,15.71
+AMCR,Amcor plc,10.17,+0.29,+2.94%,39.225M,8.344M,14.699B,22.60
